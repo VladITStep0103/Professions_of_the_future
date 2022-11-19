@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Kanit:ital@1&family=Nunito:wght@500&family=Oswald&family=Playfair+Display:wght@500&family=Roboto+Slab:wght@600&display=swap');
+.indexBody {
+  background-color: #feffa8;
+}
+.Body1 {
+  background-color: #ffd60a;
+}
+.Body2 {
+  background-color: #ffb67a;
+}
+.Body3 {
+  background-color: #e5f7ff;
+}
+.Body4 {
+  background-color: #ff85cc;
+}
+.Body5 {
+  background-color: #66d9ff;
+}
+.image {
+  width: 600px;
+  float: left;
+  margin-right: 20px;
+}
+h1 {
+  font-size: 45px;
+  color: red;
+  text-align: center;
+}
+h3 {
+  font-size: 35px;
+  color: blue;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-family: 'Playfair Display', serif;
+}
+.p1 {
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-family: 'Bitter', serif;
+}
+.p2 {
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-family: 'Nunito', sans-serif;
+}
+.p3 {
+  font-size: 25px;
+  color: black;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+b {
+  font-size: 30px;
+  color: red;
+  background-color: white;
+  font-family: 'Roboto Slab', serif;
+}
+i {
+  font-size: 25px;
+  color: blue;
+  background-color: white;
+  font-family: 'Kanit', sans-serif;
+}
